@@ -1,11 +1,11 @@
 /*
  * Copyright (C) 2012-2013 Neo Visionaries Inc.
- * Copyright (C) 2013      Redger Liensun <redger.liensun@gmail.com>
+ * Copyright (C) 2013      'Redger' I. Cornice <idriss.cornice@gmail.com>
  * 
  * Original source code from: Takahiko Kawasaki
  * https://github.com/TakahikoKawasaki/nv-i18n
  *
- * Modified by Redger Liensun
+ * Modified by Redger
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
